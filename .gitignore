@@ -1,0 +1,7 @@
+*.idea
+*.terraform
+*env
+**variables.tf
+*terraform.tfstate
+*node_modules
+*.serverless
